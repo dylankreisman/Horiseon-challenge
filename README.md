@@ -6,9 +6,9 @@
 <p> I used HTML and CSS. </p>
 <br>
 <h2> Screenshot </h2>
-    ![] src="C:\Users\dylkr\OneDrive\Desktop\Bootcamp class files\Homework-challenges\Horiseon-challenge\assets\first-screenshot.png">
-    ![] src="C:\Users\dylkr\OneDrive\Desktop\Bootcamp class files\Homework-challenges\Horiseon-challenge\assets\second-screenshot.png">
-    ![] src="C:\Users\dylkr\OneDrive\Desktop\Bootcamp class files\Homework-challenges\Horiseon-challenge\assets\third-screenshot.png">
+    <img src= "C:\Users\dylkr\OneDrive\Desktop\Bootcamp class files\Homework-challenges\Horiseon-challenge\assets\images\first-screenshot">
+    <img src= "C:\Users\dylkr\OneDrive\Desktop\Bootcamp class files\Homework-challenges\Horiseon-challenge\assets\images\second-screenshot">
+    <img src= "C:\Users\dylkr\OneDrive\Desktop\Bootcamp class files\Homework-challenges\Horiseon-challenge\assets\images\third-screenshot">
 <br>
 <h2> Personal links </h2>
     <ul>
